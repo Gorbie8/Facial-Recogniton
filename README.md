@@ -1,5 +1,5 @@
 # Facial-Recogniton
-Facial recognition using the Open CV library
+Facial recognition using the Open CV library in Python 3
 
 ### Usage
 Run the Faces Train program with the people in the Faces folder. Then run the Face Detection program. The Program will draw a blue box around the deteced head and print the name of the detected id.
