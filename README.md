@@ -18,4 +18,4 @@ pip install pil
 
 ### Author
 - Inspired By Devon Crawford (www.devoncrawford.io)
-- Made By Jake Daffy (github.com/Gorbie8)
+- Made By Jake Daffy (www.github.com/Gorbie8)
