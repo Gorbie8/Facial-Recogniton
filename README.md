@@ -17,5 +17,5 @@ pip install pil
 - Develope eye tracking 
 
 ### Author
-- Inspired By Devon Crawford (www.devoncrawford.io)
+- Inspired By Coding Entrepreneurs (www.youtube.com/user/CodingEntrepreneurs)
 - Made By Jake Daffy (www.github.com/Gorbie8)
