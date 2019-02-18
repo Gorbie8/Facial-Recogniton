@@ -1,4 +1,4 @@
-# Facial-Recogniton
+# Facial Recogniton
 Facial recognition using the Open CV library in Python 3
 
 ### Usage
